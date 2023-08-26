@@ -5,3 +5,17 @@
 // find sum and multiply of all array element
 
 arr = [4, 1, 6, 9, 2, 7, 20, 55];
+
+arrLength = arr.length-1
+for( i = 0 ; i < arrLength ; i++ ){
+
+    
+    
+}
+
+
+
+
+
+
+
