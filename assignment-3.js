@@ -9,7 +9,6 @@ array.pop()
 console.log(array);
 // What is array  splice vs slice
 
-
 // What is array indexOf
 // The Indexof() method serches the spesified array element position.
 let arr = ['a','g','t','y'];
